@@ -1,0 +1,17 @@
+file,reference,language,speaker,noise,speed,hypothesis,ref_words,wer,subs,dels,ins,audio_sec,proc_sec,rtf
+q1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,normal,Please send you the meeting for tomorrow morning.,7,0.2857142857142857,1,0,1,5.08,0.76,0.15
+q2.wav,The server restarted automatically after the update,en,me,quiet,normal,The server restarted automatically after the update.,7,0.0,0,0,0,6.29,0.88,0.14
+q3.wav,Can you send me the report by end of day,en,me,quiet,normal,Can you send me the report by end of the day?,10,0.1,0,0,1,4.56,0.83,0.182
+q4.wav,I will call you back in ten minutes,en,me,quiet,normal,I will call you back in 10 minutes.,8,0.125,1,0,0,4.11,0.81,0.197
+n1.wav,Please schedule the meeting for tomorrow morning,en,me,fan,normal,Please schedule the meeting for tomorrow morning.,7,0.0,0,0,0,4.86,0.8,0.165
+n2.wav,The server restarted automatically after the update,en,me,fan,normal,The server restarted automatically after the update.,7,0.0,0,0,0,5.18,0.83,0.16
+n3.wav,Can you send me the report by end of day,en,me,street,normal,Can you send me the report by end of day?,10,0.0,0,0,0,3.99,0.82,0.206
+f1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,fast,Please schedule the meeting for tomorrow morning.,7,0.0,0,0,0,2.84,0.83,0.292
+f2.wav,The server restarted automatically after the update,en,me,quiet,fast,The solver restarted automatically after the update.,7,0.14285714285714285,1,0,0,3.09,0.84,0.272
+s1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,slow,Please schedule the meeting for tomorrow morning.,7,0.0,0,0,0,6.13,0.8,0.131
+s2.wav,The server restarted automatically after the update,en,me,quiet,slow,The server restarted automatically after the update.,7,0.0,0,0,0,9.96,0.83,0.083
+h1.wav,Call me at nine eight zero four two five six two five six,en,me,quiet,normal,Call me at 9804256256.,13,0.7692307692307693,1,9,0,6.67,0.86,0.129
+h2.wav,I deployed the app using Kubernetes and PostgreSQL,en,me,quiet,normal,I deployed the app using Kubernetes and Postgres SQL.,8,0.25,1,0,1,5.5,0.85,0.155
+h3.wav,Saksham Dura graduated from Tribhuvan University,en,me,quiet,normal,Soxium-Durak graduated from Tribuon University.,6,0.5,2,1,0,4.43,0.87,0.196
+sil1.wav,,en,none,room_only,none,,0,,0,0,0,5.57,0.82,0.148
+sil2.wav,,en,none,fan_only,none,"I'm sorry, I'm sorry.",0,,0,0,4,5.76,3.1,0.537

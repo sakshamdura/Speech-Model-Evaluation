@@ -1,0 +1,17 @@
+file,reference,language,speaker,noise,speed
+q1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,normal
+q2.wav,The server restarted automatically after the update,en,me,quiet,normal
+q3.wav,Can you send me the report by end of day,en,me,quiet,normal
+q4.wav,I will call you back in ten minutes,en,me,quiet,normal
+n1.wav,Please schedule the meeting for tomorrow morning,en,me,fan,normal
+n2.wav,The server restarted automatically after the update,en,me,fan,normal
+n3.wav,Can you send me the report by end of day,en,me,street,normal
+f1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,fast
+f2.wav,The server restarted automatically after the update,en,me,quiet,fast
+s1.wav,Please schedule the meeting for tomorrow morning,en,me,quiet,slow
+s2.wav,The server restarted automatically after the update,en,me,quiet,slow
+h1.wav,Call me at nine eight zero four two five six two five six,en,me,quiet,normal
+h2.wav,I deployed the app using Kubernetes and PostgreSQL,en,me,quiet,normal
+h3.wav,Saksham Dura graduated from Tribhuvan University,en,me,quiet,normal
+sil1.wav,,en,none,room_only,none
+sil2.wav,,en,none,fan_only,none
