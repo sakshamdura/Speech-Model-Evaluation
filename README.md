@@ -1,12 +1,12 @@
 # Speech Recognition Evaluation: Whisper (`base`) under Varied Conditions
 
-**Author:** Saksham Dura | **Model:** faster-whisper `base`, CPU int8 | **Hardware:** [fill in: e.g. Windows laptop, Intel i5, 8GB RAM]
+**Author:** Saksham Dura | **Model:** faster-whisper `base`, CPU int8 | **Hardware:** Windows laptop, AMD Ryzen 5 4500U, 8GB RAM
 
 ## 1. Goal
 Measure how well an open-source speech recognition model (Whisper `base`) handles background noise, speaking speed, and difficult content (names, numbers, technical terms), and identify its failure patterns — including on non-speech audio.
 
 ## 2. Method
-- **Dataset:** 16 clips, 3–10 seconds each, recorded by the author on a laptop microphone.
+- **Dataset:** 16 clips, 3–10 seconds each, recorded by on a laptop microphone.
 - **Ground truth:** transcripts written by hand before running the model.
 - **Normalization:** lowercase, punctuation removed, whitespace collapsed.
 - **Metrics:**
